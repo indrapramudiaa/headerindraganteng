@@ -31,7 +31,7 @@
 }
 .wrapper header{
 width:90%;
-background:#067310;
+background:#1fa3c2;
   height: 42px;
   display: flex;
   align-items: center;
@@ -60,7 +60,7 @@ color:#fff;
 #tab-2:checked ~ header .tab-2,
 #tab-3:checked ~ header .tab-3,
 #tab-4:checked ~ header .tab-4{
-  color: #00880D;font-weight: bold;
+  color: #1fa3c2;font-weight: bold;
 }
 header label:nth-child(2){
   width: 40%;
