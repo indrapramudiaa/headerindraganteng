@@ -397,7 +397,7 @@ button1236:hover {
   opacity: ;
 border-radius: 18px;
 background-color: #ff000000 ;
-color: green;
+color: #1fa3c2;
 font-weight: 500;
 box-shadow: inset -3px -3px 7px #ffffffb0, inset 3px 3px 5px rgba(94, 104, 121, 0.692);
 }
@@ -533,7 +533,7 @@ position:relative;
   display: inline-block;
   padding: 1px 7px;
   color: white;
-  background-color: green;
+  background-color: #1fa3c2;
   text-align: center;
   cursor: pointer;
 border-radius: 18px;
@@ -561,7 +561,7 @@ button12366:hover {
   opacity: ;
 border-radius: 18px;
 background-color: #ff000000 ;
-color: green;
+color: #1fa3c2;
 font-weight: 500;
 box-shadow: inset -3px -3px 7px #ffffffb0, inset 3px 3px 5px rgba(94, 104, 121, 0.692);
 }
@@ -611,7 +611,7 @@ height:28px;
 .tabss .tab-header > div.activeee {
 font-size:14px;
   color:#fff; 
-  background:green;
+  background:#1fa3c2;
 box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
   height:28px;
   line-height:10px;
@@ -752,7 +752,7 @@ p,button1{
 }
 button1{
 position: absolute;
-    background-color: green;
+    background-color: #1fa3c2;
     border: none;
     color: #ffffff;
     margin: 10px 0 30px 0;
