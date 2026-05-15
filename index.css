@@ -494,7 +494,7 @@ color:white;
     top: 20px;
     width: 6px;
     height: 10px;
-    background: #910E13;
+    background: #1989a3;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
     z-index: 1;
@@ -507,7 +507,7 @@ color:white;
     top: 20px;
     width: 6px;
     height: 5px;
-    background: #ED2535;
+    background: #1fa3c2;
     z-index: 0;
     left: 0px;
 }
